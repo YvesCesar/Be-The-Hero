@@ -1,21 +1,14 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+//import Logon from './pages/Logon'
+import './global.css'
 
-class App extends Component {
-  render() {
+import Routes from './routes'
+
+function App() {
     return (
-      <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React</h2>
-        </div>
-        <p className="App-intro">
-          Hello Omnistack!
-        </p>
-      </div>
+      //<Logon />
+      <Routes />
     );
-  }
 }
 
 export default App;
