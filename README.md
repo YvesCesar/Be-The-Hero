@@ -17,6 +17,7 @@ Principais aspectos técnicos do projeto:<br>
 - Front-End Web com React <br>
 - Front-end Mobile com React Native <br>
 - APIs que possibilitam o envio de Emails e mensagens via WhatsApp. <br>
+- Testes de Software <br>
 
 <p align="center">
   <img align="center" width="300" height="300" src="/frontend/src/assets/heroes.png">
