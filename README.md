@@ -13,7 +13,7 @@ Principais aspectos técnicos do projeto:<br>
 - Conexão com Banco de Dados <br>
 - Comunicação com webservices<br>
 - Autenticação de usuários<br>
-- Estrutura de dados JSON(JavaScript Object Notation) <br>
+- Dados em formato JSON(JavaScript Object Notation) <br>
 - Front-End Web com React <br>
 - Front-end Mobile com React Native <br>
 - APIs que possibilitam o envio de Emails e mensagens via WhatsApp. <br>
